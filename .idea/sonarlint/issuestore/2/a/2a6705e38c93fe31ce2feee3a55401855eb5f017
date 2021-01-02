@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±΄ρψÿÿÿÿ8±ÿθπή.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ύ½θ‚8·οπή.
+7
+java:S1220""Move this file to a named package.8±ÿθπή.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·ώλ8±ÿθπή.
+‚
+java:S1130	"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(δ“Υ–8€ππή.

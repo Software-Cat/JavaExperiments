@@ -1,0 +1,283 @@
+# Project exclude paths
+/.gradle/
+/Problems/A lambda expression with seven arguments/build/
+/Problems/A new rockstar game/build/
+/Problems/Adding N minutes/build/
+/Problems/Adding values/build/
+/Problems/An anonymous class with three methods/build/
+/Problems/An expression with large numbers/build/
+/Problems/An infinite numbers supplier/build/
+/Problems/Annotated fields/build/
+/Problems/Application as a class/build/
+/Problems/Area of a circle/build/
+/Problems/Ascending and descending sorting/build/
+/Problems/ASCII Art/build/
+/Problems/Avoid NPE/build/
+/Problems/Bad words detecting/build/
+/Problems/Basic calculator/build/
+/Problems/Blacklist/build/
+/Problems/Books as strings/build/
+/Problems/Boxes are not just objects_/build/
+/Problems/Breakfast Decorator/build/
+/Problems/build/
+/Problems/Burgers/build/
+/Problems/Calculating factorials/build/
+/Problems/Calculating factorials/out/
+/Problems/Calculating factorials/out/production/classes/
+/Problems/Calculator/build/
+/Problems/Capture variables/build/
+/Problems/Check for null/build/
+/Problems/Check if a number is prime/build/
+/Problems/Check IP address/build/
+/Problems/Check whether a number is prime/build/
+/Problems/Christmas tree/build/
+/Problems/Christmas tree/out/
+/Problems/Christmas tree/out/production/classes/
+/Problems/Cinema Facade/build/
+/Problems/Clock factory/build/
+/Problems/Clocks/build/
+/Problems/Coffee Decorator/build/
+/Problems/Companies/build/
+/Problems/Companies/out/
+/Problems/Companies/out/production/classes/
+/Problems/Comparing numbers/build/
+/Problems/Complete a class/build/
+/Problems/Complete the eager singleton/build/
+/Problems/Complex numbers/build/
+/Problems/Compression algorithm/build/
+/Problems/Computer Facade/build/
+/Problems/Concat all strings without digits/build/
+/Problems/Constructor Checker/build/
+/Problems/Convert numbers to days/build/
+/Problems/Convert to bytes/build/
+/Problems/Convert to char array/build/
+/Problems/Correct the program/build/
+/Problems/Correct the usage of non-generic class/build/
+/Problems/Count elements of an array in another one/build/
+/Problems/Count passwords/build/
+/Problems/Count words/build/
+/Problems/Count words without repetitions/build/
+/Problems/Count words without repetitions/out/
+/Problems/Count words without repetitions/out/production/classes/
+/Problems/Countdown counter/build/
+/Problems/Counting clicks/build/
+/Problems/Counting number of instances/build/
+/Problems/Create a full name/build/
+/Problems/Create instance/build/
+/Problems/Create instance/out/
+/Problems/Create instance/out/production/classes/
+/Problems/Create prototype/build/
+/Problems/Creating a closure/build/
+/Problems/Creating a map/build/
+/Problems/Creating a set/build/
+/Problems/Creating list/build/
+/Problems/Currencies/build/
+/Problems/Curried function/build/
+/Problems/Danger levels/build/
+/Problems/Days of the week/build/
+/Problems/Days of week/build/
+/Problems/Declared fields/build/
+/Problems/Decompose a math function/build/
+/Problems/Distance/build/
+/Problems/Double factorial/build/
+/Problems/Execute Callable objects/build/
+/Problems/Extracting big numbers from a text/build/
+/Problems/Extracting words from a text/build/
+/Problems/Field count/build/
+/Problems/Field value/build/
+/Problems/Filtering the list/build/
+/Problems/Filtering the list/out/
+/Problems/Filtering the list/out/production/classes/
+/Problems/Find a list parameter type/build/
+/Problems/Find a value's index/build/
+/Problems/Find a word with a given length/build/
+/Problems/Find all empty directories/build/
+/Problems/Find all passwords/build/
+/Problems/Find integer values of Log levels/build/
+/Problems/Find min and max/build/
+/Problems/Find the latest date-time/build/
+/Problems/Find the Method/build/
+/Problems/Find the nearest number/build/
+/Problems/Find the nearest number/out/
+/Problems/Find the nearest number/out/production/classes/
+/Problems/Finding and starting a thread/build/
+/Problems/Finding max and min elements/build/
+/Problems/Finding the max number/build/
+/Problems/Fix me/build/
+/Problems/Fixing the main method/build/
+/Problems/Forex Broker/build/
+/Problems/Geek Builder/build/
+/Problems/Get first and last elements/build/
+/Problems/Getting current thread info/build/
+/Problems/Getting Superclass/build/
+/Problems/Getting the max element of a stack/build/
+/Problems/Getting the max element of a stack/out/
+/Problems/Getting the max element of a stack/out/production/classes/
+/Problems/Getting the type of comparator/build/
+/Problems/Greedy load balance/build/
+/Problems/Greedy load balance/out/
+/Problems/Greedy load balance/out/production/classes/
+/Problems/Handling interruptions/build/
+/Problems/Heron's formula/build/
+/Problems/How many Callable objects are there/build/
+/Problems/How many date-time pairs match the range/build/
+/Problems/How many tasks are finished/build/
+/Problems/Html Parser/build/
+/Problems/Impement a default method/build/
+/Problems/Implement Runnable/build/
+/Problems/In the middle of a word/build/
+/Problems/Initialize a collection/build/
+/Problems/Initialize an object of a generic class/build/
+/Problems/Interrupting a thread/build/
+/Problems/Invert an array/build/
+/Problems/Inverting streams/build/
+/Problems/Iterable range/build/
+/Problems/Iterations/build/
+/Problems/K-combination/build/
+/Problems/Kidnapper of Ice cream/build/
+/Problems/Kidnapper of Ice cream/out/
+/Problems/Kidnapper of Ice cream/out/production/classes/
+/Problems/Laptop factory/build/
+/Problems/Laptop store/build/
+/Problems/Liquid pressure/build/
+/Problems/List multiplicator/build/
+/Problems/List multiplicator/out/
+/Problems/List multiplicator/out/production/classes/
+/Problems/List private fields/build/
+/Problems/List public fields/build/
+/Problems/Make slices/build/
+/Problems/Max and Min/build/
+/Problems/Max of two integers/build/
+/Problems/Maximum of the absolute values/build/
+/Problems/Maximum of the absolute values/out/
+/Problems/Maximum of the absolute values/out/production/classes/
+/Problems/Messaging/build/
+/Problems/Motor static factory/build/
+/Problems/Multiple threads/build/
+/Problems/Multithreaded counter/build/
+/Problems/N-th power/build/
+/Problems/New Inner class/build/
+/Problems/Next even number/build/
+/Problems/Number holder/build/
+/Problems/Number of decompositions/build/
+/Problems/Number of occurrences/build/
+/Problems/Number parsing/build/
+/Problems/Only true or false/build/
+/Problems/Ordering the execution of threads/build/
+/Problems/Out of bounds_/build/
+/Problems/Output elements/build/
+/Problems/Output the list's elements/build/
+/Problems/Packing backeries/build/
+/Problems/Parameters and their values/build/
+/Problems/Pets and boxes/build/
+/Problems/Pets in boxes/build/
+/Problems/Phone factory/build/
+/Problems/Photocopiers/build/
+/Problems/Pick your team/build/
+/Problems/Pizza Decorator/build/
+/Problems/Pow/build/
+/Problems/Powers of two/build/
+/Problems/Prime numbers/build/
+/Problems/Print content/build/
+/Problems/Print elements of a stream/build/
+/Problems/Print  Hello, Java_/build/
+/Problems/Print  We are robots_/build/
+/Problems/Problems-Count_even_numbers/build/
+/Problems/Problems-Count_even_numbers/out/
+/Problems/Problems-Count_even_numbers/out/production/classes/
+/Problems/Quality control system/build/
+/Problems/Range quadratic sum/build/
+/Problems/Reducer operator/build/
+/Problems/Remove comments/build/
+/Problems/Remove elements of a collection/build/
+/Problems/Remove extra spaces/build/
+/Problems/Remove HTML tags/build/
+/Problems/Resolve a diamond problem/build/
+/Problems/Retrieve class name/build/
+/Problems/Return empty string when argument is null/build/
+/Problems/Return time without seconds/build/
+/Problems/Reverse input text/build/
+/Problems/Robot/build/
+/Problems/Robot Builder/build/
+/Problems/Robot control/build/
+/Problems/Rockstar games/build/
+/Problems/Rotating table/build/
+/Problems/Rotating table/out/
+/Problems/Rotating table/out/production/classes/
+/Problems/Safe converting/build/
+/Problems/Safe password/build/
+/Problems/Seconds between two time points/build/
+/Problems/Secret codes/build/
+/Problems/Secret codes/out/
+/Problems/Secret codes/out/production/classes/
+/Problems/Serializable user/build/
+/Problems/Slightly mocking/build/
+/Problems/Smart house/build/
+/Problems/Some hours and minutes ago/build/
+/Problems/Sort out the classes/build/
+/Problems/Sorting the absolute values/build/
+/Problems/Spell checker/build/
+/Problems/Spell checker/out/
+/Problems/Spell checker/out/production/classes/
+/Problems/Squares list/build/
+/Problems/Squares list/out/
+/Problems/Squares list/out/production/classes/
+/Problems/Static factory methods for Time/build/
+/Problems/Stock Broker/build/
+/Problems/String concatenation/build/
+/Problems/String processor/build/
+/Problems/Substitution cipher/build/
+/Problems/Substitution cipher/out/
+/Problems/Substitution cipher/out/production/classes/
+/Problems/Subtracting hours and adding minutes/build/
+/Problems/Subway Sandwich/build/
+/Problems/Sum of divisors/build/
+/Problems/Sum of the areas/build/
+/Problems/Summing with threads/build/
+/Problems/System of units/build/
+/Problems/Template Method/build/
+/Problems/Template Method (1)/build/
+/Problems/Ternary operator/build/
+/Problems/Ternary predicate/build/
+/Problems/Testing the factorial/build/
+/Problems/The address book/build/
+/Problems/The angle between vectors/build/
+/Problems/The average salary/build/
+/Problems/The average salary/out/
+/Problems/The average salary/out/production/classes/
+/Problems/The first and the last day of a month/build/
+/Problems/The first day of a month or not/build/
+/Problems/The first element/build/
+/Problems/The first index of a sublist/build/
+/Problems/The index of an argument/build/
+/Problems/The index of the K occurrence/build/
+/Problems/The New Year is coming (or not)/build/
+/Problems/The number of occurrences/build/
+/Problems/The percentage of G and C characters/build/
+/Problems/The product of squares/build/
+/Problems/The product of squares/out/
+/Problems/The product of squares/out/production/classes/
+/Problems/The Range class/build/
+/Problems/The root of a number/build/
+/Problems/The sign of a number/build/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
+/Problems/The total number of employees/build/
+/Problems/The total sum of canceled transactions/build/
+/Problems/The total sum of transaction by each account/build/
+/Problems/Throw an unchecked exception/build/
+/Problems/Time as a string/build/
+/Problems/Undo command/build/
+/Problems/Users as strings/build/
+/Problems/VeganPizza/build/
+/Problems/Vehicle registration number/build/
+/Problems/Violator/build/
+/Problems/Vowel or not/build/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/
+/Problems/Who is who/build/
+/Problems/Whole hours between two date-time pairs/build/
+/Problems/Working with queue/build/
+/Problems/Writing a thread for printing numbers/build/
+/Problems/Your vehicle/build/
+/util/build/

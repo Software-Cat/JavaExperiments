@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems-Max_of_two_integers:main" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Max of two integers" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Battleship" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../Problems/Max of two integers/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems/Max of two integers/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/Max of two integers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/Max of two integers/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/Max of two integers/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Battleship.util.main" />
+  </component>
+</module>

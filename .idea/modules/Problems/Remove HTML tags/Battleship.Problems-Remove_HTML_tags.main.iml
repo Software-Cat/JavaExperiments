@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems-Remove_HTML_tags:main" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Remove HTML tags" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Battleship" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../Problems/Remove HTML tags/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems/Remove HTML tags/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/Remove HTML tags/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/Remove HTML tags/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/Remove HTML tags/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Battleship.util.main" />
+  </component>
+</module>

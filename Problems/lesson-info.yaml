@@ -1,0 +1,235 @@
+content:
+- The sign of a number
+- Vowel or not
+- Print  We are robots_
+- Fixing the main method
+- Print  Hello, Java_
+- Create a full name
+- Decompose a math function
+- Throw an unchecked exception
+- Days of the week
+- The root of a number
+- Return empty string when argument is null
+- Avoid NPE
+- Out of bounds_
+- Distance
+- Liquid pressure
+- Area of a circle
+- Adding values
+- Application as a class
+- Get first and last elements
+- K-combination
+- N-th power
+- Number of decompositions
+- Parameters and their values
+- Basic calculator
+- The index of an argument
+- Number of occurrences
+- The percentage of G and C characters
+- Compression algorithm
+- Concat all strings without digits
+- Pow
+- Heron's formula
+- The angle between vectors
+- An expression with large numbers
+- Comparing numbers
+- Double factorial
+- Convert numbers to days
+- The first day of a month or not
+- The first and the last day of a month
+- Some hours and minutes ago
+- Return time without seconds
+- Seconds between two time points
+- Subtracting hours and adding minutes
+- Whole hours between two date-time pairs
+- Adding N minutes
+- The New Year is coming (or not)
+- Find the latest date-time
+- How many date-time pairs match the range
+- Find a value's index
+- The number of occurrences
+- Count elements of an array in another one
+- The index of the K occurrence
+- Convert to char array
+- Reverse input text
+- Convert to bytes
+- Count words
+- Vehicle registration number
+- Safe password
+- Check IP address
+- In the middle of a word
+- Find a word with a given length
+- Number parsing
+- Remove extra spaces
+- Remove HTML tags
+- Remove comments
+- Extracting big numbers from a text
+- Extracting words from a text
+- Find all passwords
+- Days of week
+- Currencies
+- Robot control
+- Danger levels
+- System of units
+- Only true or false
+- Safe converting
+- New Inner class
+- Christmas tree
+- Your vehicle
+- Create prototype
+- Make slices
+- Find min and max
+- Capture variables
+- An anonymous class with three methods
+- Implement Runnable
+- Calculator
+- Create instance
+- Iterations
+- Users as strings
+- Time as a string
+- Books as strings
+- Impement a default method
+- Resolve a diamond problem
+- Who is who
+- Sort out the classes
+- Sum of the areas
+- Complex numbers
+- Declared fields
+- Field count
+- Retrieve class name
+- Getting Superclass
+- Find the Method
+- List public fields
+- List private fields
+- Field value
+- Annotated fields
+- Constructor Checker
+- Serializable user
+- The Range class
+- Complete a class
+- Complete the eager singleton
+- Max and Min
+- Pick your team
+- Clock factory
+- Motor static factory
+- Static factory methods for Time
+- Stock Broker
+- Forex Broker
+- Undo command
+- Geek Builder
+- Subway Sandwich
+- Robot Builder
+- Pizza Decorator
+- Coffee Decorator
+- Breakfast Decorator
+- Clocks
+- Robot
+- Laptop store
+- Template Method
+- Template Method (1)
+- Rockstar games
+- A new rockstar game
+- Fix me
+- Cinema Facade
+- Computer Facade
+- Smart house
+- Laptop factory
+- Burgers
+- Phone factory
+- Correct the program
+- Correct the usage of non-generic class
+- Initialize an object of a generic class
+- Boxes are not just objects_
+- The first element
+- Print content
+- Invert an array
+- Check for null
+- Number holder
+- Pets and boxes
+- Pets in boxes
+- List multiplicator
+- Packing backeries
+- Violator
+- Find a list parameter type
+- Getting the type of comparator
+- Quality control system
+- Photocopiers
+- Getting current thread info
+- Writing a thread for printing numbers
+- Multiple threads
+- String processor
+- VeganPizza
+- Ordering the execution of threads
+- Summing with threads
+- Multithreaded counter
+- Countdown counter
+- Counting number of instances
+- Interrupting a thread
+- Handling interruptions
+- Finding and starting a thread
+- Find integer values of Log levels
+- Messaging
+- Check whether a number is prime
+- How many tasks are finished
+- Execute Callable objects
+- How many Callable objects are there
+- Max of two integers
+- Next even number
+- Creating a closure
+- Ascending and descending sorting
+- A lambda expression with seven arguments
+- Ternary predicate
+- Ternary operator
+- An infinite numbers supplier
+- An infinite numbers supplier
+- String concatenation
+- Curried function
+- Reducer operator
+- The address book
+- Initialize a collection
+- Creating list
+- Output the list's elements
+- Find the nearest number
+- Blacklist
+- Squares list
+- Companies
+- Filtering the list
+- The first index of a sublist
+- Rotating table
+- Creating a set
+- Output elements
+- Spell checker
+- Working with queue
+- Greedy load balance
+- Html Parser
+- Getting the max element of a stack
+- Remove elements of a collection
+- Finding the max number
+- Iterable range
+- Creating a map
+- Substitution cipher
+- Kidnapper of Ice cream
+- Count passwords
+- Print elements of a stream
+- Finding max and min elements
+- Check if a number is prime
+- Bad words detecting
+- Maximum of the absolute values
+- Sorting the absolute values
+- Count words without repetitions
+- Sum of divisors
+- Calculating factorials
+- Range quadratic sum
+- ASCII Art
+- The product of squares
+- The average salary
+- The total number of employees
+- The total sum of canceled transactions
+- Secret codes
+- Prime numbers
+- Inverting streams
+- Powers of two
+- Counting clicks
+- The total sum of transaction by each account
+- Testing the factorial
+- Slightly mocking

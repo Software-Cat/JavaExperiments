@@ -1,0 +1,36 @@
+static String sanitizeName(String name) {
+    return name.replaceAll("[ /\\\\:<>\"?*|()]", "_").replaceAll("(^[.]+)|([.]+\$)", "")
+}
+
+rootProject.name = 'Battleship'
+
+rootProject.projectDir.eachDirRecurse {
+    if (!isTaskDir(it) || it.path.contains(".idea")) {
+        return
+    }
+    def taskRelativePath = rootDir.toPath().relativize(it.toPath())
+    def parts = []
+    for (name in taskRelativePath) {
+        parts.add(sanitizeName(name.toString()))
+    }
+    def moduleName = parts.join("-")
+    include "$moduleName"
+    project(":$moduleName").projectDir = it
+}
+
+static def isTaskDir(File dir) {
+    return new File(dir, "src").exists()
+}
+
+include 'util'
+include 'Problems:Problems-Count_even_numbers'
+findProject(':Problems:Problems-Count_even_numbers')?.name = 'Problems-Count_even_numbers'
+include 'Find all empty directories'
+findProject(':Find all empty directories')?.name = 'Problems-Find_all_empty_directories'
+include 'Problems:The deepest file'
+findProject(':Problems:The deepest file')?.name = 'Problems-The_deepest_file'
+include 'The_deepest_file'
+findProject(':The_deepest_file')?.name = 'Problems-The_deepest_file'
+include 'Problems:The_deepest_file'
+findProject(':Problems:The_deepest_file')?.name = 'Problems-The_deepest_file'
+
